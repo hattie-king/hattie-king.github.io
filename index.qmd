@@ -1,4 +1,39 @@
 ---
-title: "."
+title: Hattie King
+image: images/headshot.jpg
+about:
+    template: trestles
+    image-width: 16em    
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          href: https://linkedin.com/in/hattie-king
+        - icon: envelope
+          text: Email
+          href: mailto:kinghattie1996@gmail.com
+
+format: 
+  html:
+    page-layout: full   
 ---
 
+## Bio
+
+Experienced Onboarding Specialist with a healthcare recruiting background. Proficient in streamlining onboarding processes, ensuring compliance, and facilitating smooth transitions for new hires.
+
+
+## Experience
+
+**Onboarding Specialist** | Medasource | September 2021 - Present
+
+**Internal Operations Manager** | Herculean | May 2019 - September 2021
+
+**Colts Cheerleader** | Indianapolis Colts | March 2019 - January 2020
+
+**Dance Instructor** | Dance Creations, En Pointe | January 2020 - May 2023
+
+## Education
+
+**Anderson University** | Anderson, Indiana
+
+Bacherlor's of Fine Arts, Dance Performance | 2019

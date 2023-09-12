@@ -2,16 +2,17 @@ project:
   type: website
 
 website:
-  title: "."
+  title: "Hattie King"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: My_Resume.pdf
+        text: Resume
 
 format:
   html:
-    theme: cosmo
+    theme: lumen
     css: styles.css
     toc: false
 
