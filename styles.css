@@ -1,3 +1,7 @@
 /* css styles */
 
 
+nav {
+    width: 100%;
+    position: fixed;
+  }
