@@ -11,6 +11,10 @@ about:
         - icon: envelope
           text: Email
           href: mailto:kinghattie1996@gmail.com
+        - icon: sticky
+          text: Resume
+          href: resume.pdf
+  
 
 format: 
   html:
